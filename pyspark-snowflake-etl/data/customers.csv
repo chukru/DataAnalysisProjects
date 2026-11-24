@@ -1,0 +1,7 @@
+customer_id,customer_name,email,signup_date,amount
+101,  Ananya Rao  , ANANYA.RAO@example.com ,2024-01-10,1200.50
+102,Rahul Kumar,rahul.kumar@example.com,2024-02-15,850.00
+103,Meera Reddy,MEERA.REDDY@example.com,2024-03-20,430.75
+102,Rahul Kumar,rahul.kumar@example.com,2024-02-15,850.00
+104,,missing.name@example.com,2024-04-01,99.00
+105,Kiran Varma,,2024-04-12,150.00
